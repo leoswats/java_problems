@@ -66,11 +66,5 @@ public class Uri1018{
         System.out.println(q5   + " nota(s) de R$ 5,00");
         System.out.println(q2   + " nota(s) de R$ 2,00");
         System.out.println(q1   + " nota(s) de R$ 1,00"); 
-
-
-
-
-
-
     }
 }
