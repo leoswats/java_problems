@@ -21,7 +21,7 @@ public class Uri1064{
                 numPositivos++;
                 somatoria = somatoria + valor;
             }
-        }
+        }   
         System.out.println(numPositivos+" valores positivos");
         media = somatoria / numPositivos;
         System.out.printf("%.1f\n",media);
